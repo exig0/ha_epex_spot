@@ -21,7 +21,7 @@ You can choose between multiple sources:
    [Awattar](https://www.awattar.de/services/api) provides a free of charge service for their customers. Market price data is available for Germany and Austria. So far no user identifiation is required.
 
 2. ELEX
-   [ELEX](https://www.elex.mk/api-docs) provides services to get day-ahead electricity price data for 49    European markets. An API token is required.
+   [ELEX](https://elex.mk/api-docs) provides services to get day-ahead electricity price data for 49 European markets. An API token is required.
 
 3. Energyforecast.de
    [Energyforecast.de](https://www.energyforecast.de/api-docs/index.html) provides services to get market price data forecasts for Germany up to 96 hours into the future. An API token is required.
